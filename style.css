@@ -69,3 +69,7 @@ body{
   border-radius: 1rem;
   border: none;
 }
+
+.refresh-btns:hover{
+    cursor: pointer;
+}
